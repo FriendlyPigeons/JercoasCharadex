@@ -94,20 +94,6 @@ let options = {
     },
 
 
-    /* Prompts
-    /* --------------------------------------------------------------- */
-    prompts: {
-    
-        sheetPage: sheetPages.prompts,
-
-        itemAmount: 24,
-        itemOrder: "desc",
-
-        searchFilterParams: ['Title'],
-    
-    },
-
-
     /* Traits
     /* --------------------------------------------------------------- */
     traits: {
